@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chao WANG"
-description              : "General Manager@Beike"
+description              : "Beike Inc., Beijing, China"
 repository               : "ChaoWang-Beike.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chao WANG"
   avatar           : "images/wangchao.jpeg"
-  bio              : "Beike Inc., Beijing, China"
+  bio              : "General Manager@Beike"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
