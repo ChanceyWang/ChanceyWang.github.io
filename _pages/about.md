@@ -17,42 +17,69 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Chancey WANG received his Master's degree in Business Administration(EMBA) from China Europe International Business School,and he is pursuing a PhD in Engineering at City University of Hong Kong.He served as the Infrastructure Manager for Qihoo 360 from 2011 to 2015 and General Manager of the Digital Business Research Group at Wanda Network Technology Group from 2016 to 2018, leading multiple open source projects such as Altas and QConf and making remarkable achievements in the construction of e-commerce platforms, transaction systems, user services, and technology research and development.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Currently Chancey WANG is serving as the General Manager of Beike Group's platform, leading the online and digital construction of Beike and creating multiple technology products with industry influence.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [Sensitive Data ldentification for Multi-Category and Multi-scenario Data](https://onlinelibrary.wiley.com/doi/10.1002/ett.4983), Yuning Cui, Yonghui Huang, Yongbing Bai, Yuchen Wang, **Chao Wang**, **Transactions on Emerging Telecommunications Technologies**
+- LLMSentinel: An Automatic and Efficient Toxicity Evaluation Scheme for Chinese Human-Al
+Conversations with Large Language Models
+- [Advancing vision-language models in front-end development via data synthesis](https://arxiv.org/pdf/2503.01619), Tong Ge, Yashu Liu, Jieping Ye, Tianyi Li, **Chao Wang**, **CVPR 2025**
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025 - now*, City University of Hong Kong, Doctor of Engineering(EngD). 
+- *2024 - now*, Southern University of Science and Technology, Technology Management Scholar Program (DBA). 
+- *2022 - 2024*, China Europe International Business School, Master’s degree, EMBA in Business Administration.
+- *2002 - 2006*, Chinese People's Liberation Army Strategic Support Force Information Engineering University, Bachelor’s degree, Computer Science and Technology.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🎖 Honors and Awards
+- *2023.05*, Leading Technology Achievement Award at the Data Expo, awarded by Internet Association and Guiyang Science & Technology Bureau.
+- *2023.09*, Beijing Artificial Intelligence Industry Large Model Innovation Application Competition, awarded by Municipal Science & Technology Commission and Zhongguancun Management Committee.
+- *2023.12*, The first batch of Tianjin manufacturing high-quality development special fund support projects in 2023, awarded by Tianjin Municipal Bureau of Industry and Information Technology, etc。
+- *2024.06*, Annual New Quality Product Strength Case, awarded by Daily Economic News.
+- *2024.06*, Excellent Case of New Digital Services by the Ministry of Industry and Information Technology, awarded by Ministry of Industry and Information Technology.
+- *2024.07*, "Jinlingguang Cup" China Internet Innovation Competition, awarded by Internet Association.
+- *2024.11*, Typical cases of artificial intelligence innovation application of China Internet Security Association were displayed at Wuzhen "Light of the Internet" Expo, awarded by China Internet Security Association.
+- *2024.11*, Special cases recommended by Internet Society of China in 2024 for digital transformation of economy and society, awarded by China Internet Association.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🏆️ Achievements
+- **Patents**: Over 60 patents
+- **Economical Value**
+  - Key technologies and industrialization of cross scenario digital twin optimization control platform, creating economic value of 1.54 billion yuan from 2021 to 2023.
+  - The unified model knowledge map data management system and application, creating economic value of 510 million yuan from 2021-2023.
+- **Industry Certification & Social Position**
+  - Executive Member of CCF Data Governance Development Committee, CCF Yocesef Member.
+  - IEEE Senior Member, CCF Senior Member.
+  - CCRC Data Security Officer (DSO) certification.
+  - Tencent TVP.
+
+# 💻 Professional Experience
+- *2011 - 2015*, Infrastructure Manager of Qihoo 360
+  - Established Qihoo 360 Infrastructure Department and Open Source Committee
+  - Lead the development of distributed data storage systems, optimize database performance, support daily user access of billions, and lead the development of open source projects such as Altas, QConf,  PHPTrace, etc.
+  - [**Altas**](https://github.com/Qihoo360/Atlas)
+  - [**Phptrace**](https://github.com/Qihoo360/phptrace)
+  - [**QConf**](https://github.com/Qihoo360/QConf)
+- *2016 - 2018*, General Manager of Digital Business Research Group of Wanda Network Technology Group
+  - Feifan E-commerce Platform has built a membership, marketing, and transaction system for Wanda Commercial Shopping Center from scratch, serving 200 million users, 100000 merchants, and 2000 commercial projects.
+  - Build a distributed computing system suitable for shopping centers, achieve high availability hybrid computing at the cloud edge, effectively avoid the impact of single point of failure on the system, and reduce access latency.
+- *2018 - now*, General Manager of Beike Group Platform
+  - Managed a production and research team of nearly a thousand people, responsible for the group's technology research and development standards, and in charge of the research and application of core areas such as artificial intelligence, big data, 3D reconstruction, and information security.
+  - Led the online and digital construction of Beike, built Beike AI infrastructure and big data system, and is promoting Beike's development from digitalization to industrial intelligence, committed to building Beike into a world-class technology residential service platform. Led the research and development of the technology products with industry influence including the consumer applications and platform applications mentioned below.
+
+# 🗂️ Projects
+- **Open Source Projects**
+  - [**Altas**](https://github.com/Qihoo360/Atlas)
+  - [**Phptrace**](https://github.com/Qihoo360/phptrace)
+  - [**QConf**](https://github.com/Qihoo360/QConf)
+  - [**Flame-Code-VLM**](https://github.com/Flame-Code-VLM/Flame-Code-VLM)
+- **Consumer Applications**
+    - **BuDingAI**: By integrating data learned through DeepSeek, searching the entire network, and collecting Beike’s data, and using powerful reasoning abilities to replace the human brain for thinking and analysis, and based on this, helping users converge and analyze their needs step by step, recommending suitable brokers to form a complete closed loop.
+    - **Sheniu(AIGC Home Decoration Design Tool)**: Based on a self-developed large-scale model, we have constructed a controllable mapping model for decoration scenarios, which realizes various mapping functions such as real shooting mapping, layout mapping, and reference mapping. It has been launched in more than 50 cities including Beijing, Shanghai, Guangzhou, and Chengdu, serving over 3 million users and more than 80 million mapping images.
+    - **3D Loushu**: Through 3D modeling and information restructuring, it provides a 720 ° panoramic and virtual view display method (location, bird's-eye view, interior view, building) for surrounding supporting facilities, community environment, infrastructure and other content that users are concerned about, breaking the boundaries of viewing space and allowing customers to view the property without leaving their homes, better showcasing the value of the property. 3D reconstruction of the real estate/community, combined with LBS data for physical simulation (lighting, noise, POI), in order to improve user product experience, help users accelerate online screening efficiency, and enhance service providers' understanding of the real estate. Based on the data from Beike Real Estate Dictionary, data-driven 3D reconstruction has been carried out for the real world, achieving large-scale automatic semantic generation of 3D scenes, greatly reducing production barriers, and changing the industry's current situation of relying heavily on manual restoration of large scenes in digital twins and related products.
+- **Platform Applications**
+    - **Codelink(LLM Code Generation Tool)**: Covering 90% of Beike's R&D personnel, generating over 4 million lines of code, with approximately 20% of Beike's total code generated by Codelink in the past year.
+    - **Management Cockpit**: Focusing on the company's inconsistent data construction, numerous exports of data products and management reports, and high data review costs, we have completed the construction and promotion of the group's mainstream data products and platform cockpit, covering multiple functions of the platform and platform ecological personnel such as store owners.
+    - **ChatBI(Conversational Data Analysis Tool)**: Using conversational interaction to understand user intent, it can flexibly process, organize, analyze, and present data; And utilizing big data mining and insight technology to assist analysis, helping users better understand and utilize data, and improving the operational decision-making efficiency of managers, BI analysts and other functional personnel. Currently, it covers more than 500 group users.
