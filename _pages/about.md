@@ -44,7 +44,7 @@ Conversations with Large Language Models
 - *2024.11*, Typical cases of artificial intelligence innovation application of China Internet Security Association were displayed at Wuzhen "Light of the Internet" Expo, awarded by China Internet Security Association.
 - *2024.11*, Special cases recommended by Internet Society of China in 2024 for digital transformation of economy and society, awarded by China Internet Association.
 
-# 🏆️ Contribution
+# 🔥 Contribution
 - **Patents**: Over 60 patents
 - **Economical Value**
   - Key technologies and industrialization of cross scenario digital twin optimization control platform, creating economic value of 1.54 billion yuan from 2021 to 2023.
@@ -69,7 +69,7 @@ Conversations with Large Language Models
   - Managed a production and research team of nearly a thousand people, responsible for the group's technology research and development standards, and in charge of the research and application of core areas such as artificial intelligence, big data, 3D reconstruction, and information security.
   - Led the online and digital construction of Beike, built Beike AI infrastructure and big data system, and is promoting Beike's development from digitalization to industrial intelligence, committed to building Beike into a world-class technology residential service platform. Led the research and development of the technology products with industry influence including the consumer applications and platform applications mentioned below.
 
-# 🗂️ Projects
+# 📚 Projects
 - **Open Source Projects**
   - [**Altas**](https://github.com/Qihoo360/Atlas)
   - [**Phptrace**](https://github.com/Qihoo360/phptrace)
