@@ -44,7 +44,7 @@ Conversations with Large Language Models
 - *2024.11*, Typical cases of artificial intelligence innovation application of China Internet Security Association were displayed at Wuzhen "Light of the Internet" Expo, awarded by China Internet Security Association.
 - *2024.11*, Special cases recommended by Internet Society of China in 2024 for digital transformation of economy and society, awarded by China Internet Association.
 
-# 🏆️ Achievements
+# 🏆️ Contribution
 - **Patents**: Over 60 patents
 - **Economical Value**
   - Key technologies and industrialization of cross scenario digital twin optimization control platform, creating economic value of 1.54 billion yuan from 2021 to 2023.
