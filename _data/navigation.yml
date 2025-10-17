@@ -3,20 +3,23 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Outstanding Contribution"
+    url: "/#-outstanding-contribution"
 
   - title: "Educations"
     url: "/#-educations"
+    
+  - title: "Social Services"
+    url: "/#-social-services"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Contribution"
-    url: "/#-contribution"
-
-  - title: "Professional Experience"
+   - title: "Professional Experience"
     url: "/#-professional-experience"
     
   - title: "Projects"
     url: "/#-projects"
+
+  - title: "Publications"
+    url: "/#-publications"
