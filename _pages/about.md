@@ -59,9 +59,6 @@ Currently, Chancey WANG is serving as the General Manager in Beike Technology Co
 - *2011 - 2015*, Infrastructure Manager of Qihoo 360
   - Established Qihoo 360 Infrastructure Department and Open Source Committee
   - Lead the development of distributed data storage systems, optimize database performance, support daily user access of billions, and lead the development of open source projects such as Altas, QConf,  PHPTrace, etc.
-  - [**Altas**](https://github.com/Qihoo360/Atlas)
-  - [**Phptrace**](https://github.com/Qihoo360/phptrace)
-  - [**QConf**](https://github.com/Qihoo360/QConf)
 
 # 📚 Projects
 - **Open Source Projects**
