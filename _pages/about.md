@@ -79,8 +79,8 @@ Currently, Chancey WANG is serving as the General Manager in Beike Technology Co
     - **ChatBI(Conversational Data Analysis Tool)**: Using conversational interaction to understand user intent, it can flexibly process, organize, analyze, and present data; And utilizing big data mining and insight technology to assist analysis, helping users better understand and utilize data, and improving the operational decision-making efficiency of managers, BI analysts and other functional personnel. Currently, it covers more than 500 group users.
 
 # 📝 Publications 
-
-- [Sensitive Data ldentification for Multi-Category and Multi-scenario Data](https://onlinelibrary.wiley.com/doi/10.1002/ett.4983), Yuning Cui, Yonghui Huang, Yongbing Bai, Yuchen Wang, **Chao Wang**, **Transactions on Emerging Telecommunications Technologies**
-- LLMSentinel: An Automatic and Efficient Toxicity Evaluation Scheme for Chinese Human-Al
-Conversations with Large Language Models
-- [Advancing vision-language models in front-end development via data synthesis](https://arxiv.org/pdf/2503.01619), Tong Ge, Yashu Liu, Jieping Ye, Tianyi Li, **Chao Wang**, **CVPR 2025**
+-[Automatic Toxicity Evaluation for Human-LLM Conversations in Flexible Manufacturing System With Duplex Fine-Tuned LLMs](https://ieeexplore.ieee.org/document/11096054), Bo Wang, **Chao Wang**, Zan Zhou, Yi Sun, Shujie Yang, Yonghui Huang, Yuning Cui, Yuchen Wang, Yasser D. Al-Otaibi, Ali Kashif Bashir, Changqiao Xu, **IEEE Internet of Things Journal**, 2025.
+- [Sensitive Data ldentification for Multi-Category and Multi-scenario Data](https://onlinelibrary.wiley.com/doi/10.1002/ett.4983), Yuning Cui, Yonghui Huang, Yongbing Bai, Yuchen Wang, **Chao Wang**, **Transactions on Emerging Telecommunications Technologies**, 2025.
+- [LLMSentinel: An Automatic and Efficient Toxicity Evaluation Scheme for Chinese Human-Al
+Conversations with Large Language Models](https://link.springer.com/chapter/10.1007/978-981-96-4245-8_26), Kai Zhang, Yonghui Huang, Bo Wang, Shujie Yang, Yi Sun, Yuchen Wang, **Chao Wang**, Zan Zhou, **Proceedings of the 14th International Conference on Computer Engineering and Networks**, **CENet 2024**. Lecture Notes in Electrical Engineering, Springer, Singapore, 2025.
+- [Advancing vision-language models in front-end development via data synthesis](https://arxiv.org/pdf/2503.01619), Tong Ge, Yashu Liu, Jieping Ye, Tianyi Li, **Chao Wang**, **CVPR 2025**, 2025.
