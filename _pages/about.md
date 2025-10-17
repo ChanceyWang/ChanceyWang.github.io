@@ -50,18 +50,18 @@ Currently, Chancey WANG is serving as the General Manager in Beike Technology Co
 - *2023.05*, Leading Technology Achievement Award at the Data Expo, awarded by Internet Association and Guiyang Science & Technology Bureau.
 
 # 💻 Professional Experience
+- *2018 - now*, General Manager of Beike Technology Co., Ltd.
+  - Managed a production and research team of nearly a thousand people, responsible for the group's technology research and development standards, and in charge of the research and application of core areas such as artificial intelligence, big data, 3D reconstruction, and information security.
+  - Led the online and digital construction of Beike, built Beike AI infrastructure and big data system, and is promoting Beike's development from digitalization to industrial intelligence, committed to building Beike into a world-class technology residential service platform. Led the research and development of the technology products with industry influence including the consumer applications and platform applications mentioned below.
+- *2016 - 2018*, General Manager of Digital Business Research Group of Wanda Network Technology Group
+  - Feifan E-commerce Platform has built a membership, marketing, and transaction system for Wanda Commercial Shopping Center from scratch, serving 200 million users, 100000 merchants, and 2000 commercial projects.
+  - Build a distributed computing system suitable for shopping centers, achieve high availability hybrid computing at the cloud edge, effectively avoid the impact of single point of failure on the system, and reduce access latency.
 - *2011 - 2015*, Infrastructure Manager of Qihoo 360
   - Established Qihoo 360 Infrastructure Department and Open Source Committee
   - Lead the development of distributed data storage systems, optimize database performance, support daily user access of billions, and lead the development of open source projects such as Altas, QConf,  PHPTrace, etc.
   - [**Altas**](https://github.com/Qihoo360/Atlas)
   - [**Phptrace**](https://github.com/Qihoo360/phptrace)
   - [**QConf**](https://github.com/Qihoo360/QConf)
-- *2016 - 2018*, General Manager of Digital Business Research Group of Wanda Network Technology Group
-  - Feifan E-commerce Platform has built a membership, marketing, and transaction system for Wanda Commercial Shopping Center from scratch, serving 200 million users, 100000 merchants, and 2000 commercial projects.
-  - Build a distributed computing system suitable for shopping centers, achieve high availability hybrid computing at the cloud edge, effectively avoid the impact of single point of failure on the system, and reduce access latency.
-- *2018 - now*, General Manager of Beike Group Platform
-  - Managed a production and research team of nearly a thousand people, responsible for the group's technology research and development standards, and in charge of the research and application of core areas such as artificial intelligence, big data, 3D reconstruction, and information security.
-  - Led the online and digital construction of Beike, built Beike AI infrastructure and big data system, and is promoting Beike's development from digitalization to industrial intelligence, committed to building Beike into a world-class technology residential service platform. Led the research and development of the technology products with industry influence including the consumer applications and platform applications mentioned below.
 
 # 📚 Projects
 - **Open Source Projects**
