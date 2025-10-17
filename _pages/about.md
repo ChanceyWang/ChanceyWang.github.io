@@ -31,7 +31,7 @@ Currently, Chancey WANG is serving as the General Manager in Beike Technology Co
 - *2022 - 2024*, China Europe International Business School, Master’s degree, EMBA in Business Administration
 - *2002 - 2006*, Chinese People's Liberation Army Strategic Support Force Information Engineering University, Bachelor’s degree, Computer Science and Technology
 
-# 🔥 Social Services
+# 💼 Social Services
   - Executive Member of CCF Data Governance Development Committee
   - CCF Yocesef Member
   - CCF Senior Member
