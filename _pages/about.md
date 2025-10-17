@@ -17,15 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chancey WANG received his Master's degree in Business Administration (EMBA) from China Europe International Business School and he is a PhD candidate in Engineering at City University of Hong Kong. He served as the Infrastructure Manager for Qihoo 360 from 2011 to 2015 and General Manager of the Digital Business Research Group at Wanda Network Technology Group from 2016 to 2018, leading multiple open source projects such as Altas and QConf and making remarkable achievements in the construction of e-commerce platforms, transaction systems, user services, and technology research and development.
+Chancey WANG received his Master's degree in Business Administration (EMBA) from China Europe International Business School and he is a PhD candidate in Engineering at City University of Hong Kong. He served as the Infrastructure Manager for Qihoo 360 from 2011 to 2015 and General Manager of the Digital Business Research Group at Wanda Network Technology Group from 2016 to 2018, leading multiple open source projects such as Altas and QConf and making remarkable achievements in the construction of e-commerce platforms, transaction systems, user services, and technology research and development. 
 
 Currently, Chancey WANG is serving as the General Manager in Beike Technology Co., Ltd., Beijing, China, leading the online and digital construction of Beike and creating multiple technology products with industry influence.
 
+# 🔥 Outstanding Contribution
+- Key technologies and industrialization of cross scenario digital twin optimization control platform, creating economic value of **1.54 billion yuan** from 2021 to 2023.
+- The unified model knowledge map data management system and application, creating economic value of **510 million yuan** from 2021-2023.
+- 
 # 📖 Educations
-- *2025 - now*, City University of Hong Kong, Doctor of Engineering(EngD). 
-- *2024 - now*, Southern University of Science and Technology, Technology Management Scholar Program (DBA). 
-- *2022 - 2024*, China Europe International Business School, Master’s degree, EMBA in Business Administration.
-- *2002 - 2006*, Chinese People's Liberation Army Strategic Support Force Information Engineering University, Bachelor’s degree, Computer Science and Technology.
+- *2025 - now*, City University of Hong Kong, Doctor of Engineering(EngD)
+- *2024 - now*, Southern University of Science and Technology, Technology Management Scholar Program (DBA)
+- *2022 - 2024*, China Europe International Business School, Master’s degree, EMBA in Business Administration
+- *2002 - 2006*, Chinese People's Liberation Army Strategic Support Force Information Engineering University, Bachelor’s degree, Computer Science and Technology
+
+# 🔥 Social Services
+  - Executive Member of CCF Data Governance Development Committee
+  - CCF Yocesef Member
+  - CCF Senior Member
+  - IEEE Senior Member
+  - CCRC Data Security Officer (DSO) 
+  - Tencent TVP
 
 # 🎖 Honors and Awards
 - *2023.05*, Leading Technology Achievement Award at the Data Expo, awarded by Internet Association and Guiyang Science & Technology Bureau.
@@ -36,16 +48,6 @@ Currently, Chancey WANG is serving as the General Manager in Beike Technology Co
 - *2024.07*, "Jinlingguang Cup" China Internet Innovation Competition, awarded by Internet Association.
 - *2024.11*, Typical cases of artificial intelligence innovation application of China Internet Security Association were displayed at Wuzhen "Light of the Internet" Expo, awarded by China Internet Security Association.
 - *2024.11*, Special cases recommended by Internet Society of China in 2024 for digital transformation of economy and society, awarded by China Internet Association.
-
-# 🔥 Contribution
-- **Economical Value**
-  - Key technologies and industrialization of cross scenario digital twin optimization control platform, creating economic value of 1.54 billion yuan from 2021 to 2023.
-  - The unified model knowledge map data management system and application, creating economic value of 510 million yuan from 2021-2023.
-- **Industry Certification & Social Position**
-  - Executive Member of CCF Data Governance Development Committee, CCF Yocesef Member.
-  - IEEE Senior Member, CCF Senior Member.
-  - CCRC Data Security Officer (DSO) certification.
-  - Tencent TVP.
 
 # 💻 Professional Experience
 - *2011 - 2015*, Infrastructure Manager of Qihoo 360
