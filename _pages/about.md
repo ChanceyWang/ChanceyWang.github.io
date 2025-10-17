@@ -24,7 +24,7 @@ Currently, Chancey WANG is serving as the General Manager in Beike Technology Co
 # 🔥 Outstanding Contribution
 - Key technologies and industrialization of cross scenario digital twin optimization control platform, creating economic value of **1.54 billion yuan** from 2021 to 2023.
 - The unified model knowledge map data management system and application, creating economic value of **510 million yuan** from 2021-2023.
-- 
+
 # 📖 Educations
 - *2025 - now*, City University of Hong Kong, Doctor of Engineering(EngD)
 - *2024 - now*, Southern University of Science and Technology, Technology Management Scholar Program (DBA)
@@ -40,14 +40,14 @@ Currently, Chancey WANG is serving as the General Manager in Beike Technology Co
   - Tencent TVP
 
 # 🎖 Honors and Awards
-- *2023.05*, Leading Technology Achievement Award at the Data Expo, awarded by Internet Association and Guiyang Science & Technology Bureau.
-- *2023.09*, Beijing Artificial Intelligence Industry Large Model Innovation Application Competition, awarded by Municipal Science & Technology Commission and Zhongguancun Management Committee.
-- *2023.12*, The first batch of Tianjin manufacturing high-quality development special fund support projects in 2023, awarded by Tianjin Municipal Bureau of Industry and Information Technology, etc。
-- *2024.06*, Annual New Quality Product Strength Case, awarded by Daily Economic News.
-- *2024.06*, Excellent Case of New Digital Services by the Ministry of Industry and Information Technology, awarded by Ministry of Industry and Information Technology.
-- *2024.07*, "Jinlingguang Cup" China Internet Innovation Competition, awarded by Internet Association.
 - *2024.11*, Typical cases of artificial intelligence innovation application of China Internet Security Association were displayed at Wuzhen "Light of the Internet" Expo, awarded by China Internet Security Association.
 - *2024.11*, Special cases recommended by Internet Society of China in 2024 for digital transformation of economy and society, awarded by China Internet Association.
+- *2024.07*, "Jinlingguang Cup" China Internet Innovation Competition, awarded by Internet Association.
+- *2024.06*, Annual New Quality Product Strength Case, awarded by Daily Economic News.
+- *2024.06*, Excellent Case of New Digital Services by the Ministry of Industry and Information Technology, awarded by Ministry of Industry and Information Technology.
+- *2023.12*, The first batch of Tianjin manufacturing high-quality development special fund support projects in 2023, awarded by Tianjin Municipal Bureau of Industry and Information Technology, etc.
+- *2023.09*, Beijing Artificial Intelligence Industry Large Model Innovation Application Competition, awarded by Municipal Science & Technology Commission and Zhongguancun Management Committee.
+- *2023.05*, Leading Technology Achievement Award at the Data Expo, awarded by Internet Association and Guiyang Science & Technology Bureau.
 
 # 💻 Professional Experience
 - *2011 - 2015*, Infrastructure Manager of Qihoo 360
