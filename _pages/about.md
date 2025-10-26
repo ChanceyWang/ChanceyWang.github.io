@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chancey WANG received his Master's degree in Business Administration (EMBA) from China Europe International Business School and he is a PhD candidate in Engineering at City University of Hong Kong. He served as the Infrastructure Manager for Qihoo 360 from 2011 to 2015 and General Manager of the Digital Business Research Group at Wanda Network Technology Group from 2016 to 2018, leading multiple open source projects such as Altas and QConf and making remarkable achievements in the construction of e-commerce platforms, transaction systems, user services, and technology research and development. 
+Chancey WANG received his Master's degree in Business Administration (EMBA) from China Europe International Business School and he is a EngD candidate in Engineering at City University of Hong Kong. He served as the Infrastructure Manager for Qihoo 360 from 2011 to 2015 and General Manager of the Digital Business Research Group at Wanda Network Technology Group from 2016 to 2018, leading multiple open source projects such as Altas and QConf and making remarkable achievements in the construction of e-commerce platforms, transaction systems, user services, and technology research and development. 
 
-Currently, Chancey WANG is serving as the General Manager in Beike Technology Co., Ltd., Beijing, China, leading the online and digital construction of Beike and creating multiple technology products with industry influence.
+Currently, Chancey WANG is serving as the General Manager of Platform, KE Holdings Inc, leading the online and digital construction of Beike and creating multiple technology products with industry influence.
 
 # 🔥 Outstanding Contribution
 - Key technologies and industrialization of cross scenario digital twin optimization control platform, creating economic value of **1.54 billion yuan** from 2021 to 2023.
 - The unified model knowledge map data management system and application, creating economic value of **510 million yuan** from 2021-2023.
 
 # 📖 Educations
-- *2025 - now*, City University of Hong Kong, Doctor of Engineering(EngD)
+- *2025 - now*, City University of Hong Kong, Engineering Doctorate(EngD)
 - *2024 - now*, Southern University of Science and Technology, Technology Management Scholar Program (DBA)
 - *2022 - 2024*, China Europe International Business School, Master’s degree, EMBA in Business Administration
 - *2002 - 2006*, Chinese People's Liberation Army Strategic Support Force Information Engineering University, Bachelor’s degree, Computer Science and Technology
@@ -50,7 +50,7 @@ Currently, Chancey WANG is serving as the General Manager in Beike Technology Co
 - *2023.05*, Leading Technology Achievement Award at the Data Expo, awarded by Internet Association and Guiyang Science & Technology Bureau.
 
 # 💻 Professional Experience
-- *2018 - now*, General Manager of Beike Technology Co., Ltd.
+- *2018 - now*, General Manager of Platform, KE Holdings Inc.
   - Managed a production and research team of nearly a thousand people, responsible for the group's technology research and development standards, and in charge of the research and application of core areas such as artificial intelligence, big data, 3D reconstruction, and information security.
   - Led the online and digital construction of Beike, built Beike AI infrastructure and big data system, and is promoting Beike's development from digitalization to industrial intelligence, committed to building Beike into a world-class technology residential service platform. Led the research and development of the technology products with industry influence including the consumer applications and platform applications mentioned below.
 - *2016 - 2018*, General Manager of Digital Business Research Group of Wanda Network Technology Group
