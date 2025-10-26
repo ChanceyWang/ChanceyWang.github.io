@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chancey WANG received his Master's degree in Business Administration (EMBA) from China Europe International Business School and he is a EngD candidate in Engineering at City University of Hong Kong. He served as the Infrastructure Manager for Qihoo 360 from 2011 to 2015 and General Manager of the Digital Business Research Group at Wanda Network Technology Group from 2016 to 2018, leading multiple open source projects such as Altas and QConf and making remarkable achievements in the construction of e-commerce platforms, transaction systems, user services, and technology research and development. 
+Chancey WANG received his Master's degree in Business Administration (EMBA) from China Europe International Business School and he is a EngD candidate at City University of Hong Kong. He served as the Infrastructure Manager for Qihoo 360 from 2011 to 2015 and General Manager of the Digital Business Research Group at Wanda Network Technology Group from 2016 to 2018, leading multiple open source projects such as Altas and QConf and making remarkable achievements in the construction of e-commerce platforms, transaction systems, user services, and technology research and development. 
 
 Currently, Chancey WANG is serving as the General Manager of Platform, KE Holdings Inc, leading the online and digital construction of Beike and creating multiple technology products with industry influence.
 
