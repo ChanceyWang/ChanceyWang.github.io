@@ -76,6 +76,7 @@ Currently, Chancey WANG is serving as the General Manager of Platform, KE Holdin
     - **ChatBI(Conversational Data Analysis Tool)**: Using conversational interaction to understand user intent, it can flexibly process, organize, analyze, and present data; And utilizing big data mining and insight technology to assist analysis, helping users better understand and utilize data, and improving the operational decision-making efficiency of managers, BI analysts and other functional personnel. Currently, it covers more than 500 group users.
 
 # 📝 Publications 
+- DAMR: Efficient and Adaptive Context-Aware Knowledge Graph Question Answering with LLM-Guided MCTS, Yingxu Wang, Shiqi Fan, Mengzhu Wang, Siyang Gao, **Chao Wang**, Nan Yin, Accepted, **ICLR 2026**. 
 - [Sensitive Data ldentification for Multi-Category and Multi-scenario Data](https://onlinelibrary.wiley.com/doi/10.1002/ett.4983), Yuning Cui, Yonghui Huang, Yongbing Bai, Yuchen Wang, **Chao Wang**, **Transactions on Emerging Telecommunications Technologies**, 2024.
 - [Automatic Toxicity Evaluation for Human-LLM Conversations in Flexible Manufacturing System With Duplex Fine-Tuned LLMs](https://ieeexplore.ieee.org/document/11096054), Bo Wang, **Chao Wang**, Zan Zhou, Yi Sun, Shujie Yang, Yonghui Huang, Yuning Cui, Yuchen Wang, Yasser D. Al-Otaibi, Ali Kashif Bashir, Changqiao Xu, **IEEE Internet of Things Journal**, 2025.
 - [LLMSentinel: An Automatic and Efficient Toxicity Evaluation Scheme for Chinese Human-Al
